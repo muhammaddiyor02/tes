@@ -1,0 +1,34 @@
+.booking{
+    width: 1920px;
+    height: 540px;
+    margin: 100px auto;
+    background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+}
+.container{
+    padding-top: 90px;
+}
+.btn-light{
+    display: block;
+    display: flex;
+    justify-content: center;
+}
+.bokking__card{
+    position: relative;
+}
+.bokking{
+    position: absolute;
+    bottom: 17px;
+    left:270px;
+    font-size: 48px;
+    margin-bottom: 180px;
+}
+.bokking__btn{
+    padding:15px 65px;
+    position: absolute;
+    bottom: 70px;
+  left: 520px;
+ color: rgb(190, 143, 172);
+ font-size: 24px;
+  
+  
+}

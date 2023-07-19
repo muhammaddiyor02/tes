@@ -1,0 +1,32 @@
+.footer{
+    width: 1920px;
+height: 900px;
+margin: 100px auto;
+}
+.footer__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__tit{
+    font-weight: bold;
+}
+.footer__list--itemm{
+    margin-top: 100px;
+}
+.footer__link{
+    color: #898989;
+}
+.footer__text{
+    color: #898989;
+}
+.footer__span{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.footer__inner--text{
+    margin: 30px;
+}

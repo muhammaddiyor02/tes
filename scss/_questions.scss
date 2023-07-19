@@ -1,0 +1,23 @@
+.questions{
+    width: 1920px;
+height: 1080px;
+margin: 0 auto;
+background: url(../img/questions.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.questions__title{
+    color: #fff;
+    font-size: 98px;
+    margin-left: 100px;
+    padding-top:   120px;
+}
+.questions__btn{
+    padding: 15px 35px;
+    margin-top: 400px;
+    margin-left: 100px;
+    color: rgb(74, 74, 207);
+    background-color: #fff;
+    border: none;
+    border-radius: 12px;
+}

@@ -1,0 +1,36 @@
+.email{
+    width: 1920px;
+height: 510px;
+margin: 0 auto;
+background: url(../img/email__bg-2.png);
+background-repeat: no-repeat;
+object-fit: cover;
+background-position: bottom left 240px;
+background-color: #F6F4FF;
+}
+.email__title{
+    text-align: center;
+    color:#140633;
+    font-size: 45px;
+}
+.email__box{
+    width: 800px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+   
+    border: 5px solid #AAAAAA;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    border-radius: 12px;
+}
+.email__btn{
+    width: 261px;
+height: 74px;
+color: #fff;
+font-size: 24px;
+border-radius: 13px;
+border: none;
+background-color: #3685FB;
+}
